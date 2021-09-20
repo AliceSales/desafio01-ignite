@@ -15,6 +15,8 @@
 
 This project was developed using the following technologies:
 
+- [WebPack](https://webpack.js.org/)
+- [Babel](https://babeljs.io/)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
